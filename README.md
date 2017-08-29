@@ -6,4 +6,4 @@ ARKit has its own view known as ARSCNView that allows real world scene to render
 
 The screenshot to this app is here:
 
-![Alt text](/blob/master/Screenshot/stackcube.PNG?raw=true "Stack Cube")
+![Alt text](https://user-images.githubusercontent.com/16721153/29815685-48099428-8cd1-11e7-871d-be3d4e1aaacf.PNG)
